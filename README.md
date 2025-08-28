@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\Ali\Downloads\cooltext489671028536556.png" style="width:20%; padding: 100px 0px 10px 0px">
+  <img src="C:\Users\Ali\Downloads\cooltext489671028536556.png" style="width:20%">
   <img src="cooltext489671028536556.png" alt="...">
 </div>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
