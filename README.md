@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![cooltext489670856115964](https://github.com/user-attachments/assets/f42c26ce-03dc-4956-943b-1dcc98df8fd6)
-" alt="Open" style="width:20%; padding: 100px 0px 10px 0px">
+  <img src="C:\Users\Ali\Downloads\cooltext489670856115964.gif" alt="Open" style="width:20%; padding: 100px 0px 10px 0px">
 </div>
 <div align="center">
   <img src="MH.png" alt="Open" style="width:100%; padding: 30px 0px 150px 0px">
